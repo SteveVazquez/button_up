@@ -1,0 +1,35 @@
+button {
+    display: block;
+}
+
+#search {
+    height: 30px;
+    width: 200px;
+    margin: 50px;
+    background-color: rgb(245, 245, 245);
+    color: rgb(50, 168, 169);
+    border: 2px solid rgb(50, 168, 169);
+    border-radius: 20px;
+}
+
+#plus {
+    color: white;
+    background-color: rgb(28, 209, 178);
+    text-align: center;
+    font-size: large;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: solid;
+    margin: 50px;
+}
+
+#btn {
+    color: white;
+    background-color: rgb(43, 120, 228);
+    height: 35px;
+    width: 150px;
+    box-shadow: 5px 5px 2px 1px black;
+    border: 2px solid black;
+    margin: 40px;
+}
